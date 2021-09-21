@@ -13,7 +13,7 @@ code {
 }
 
 .App {
-  width: 50%;
+  width: 280px;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -89,7 +89,7 @@ code {
 }
 
 .ope_grid .ope {
-  width: 50px;
+  width: 58px;
   border-radius: 5px;
   font-weight: bold;
   background-color: rgb(221, 15, 67);
